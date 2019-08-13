@@ -1,0 +1,17 @@
+{
+  "name": "rentomojo_web_scrapper",
+  "version": "1.0.0",
+  "description": "rentomojo web scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aishwarya Vaibhav <aishwaryavaibhav@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "mongoose": "latest",
+    "request": "^2.88.0"
+  }
+}
